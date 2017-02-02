@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Zoo</string>
+    <string name="EmptyCategory">Il n\'y a pas de categorie</string>
+</resources>
